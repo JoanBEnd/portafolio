@@ -87,7 +87,7 @@ section {
 .home  {
     display: flex;
     align-items: center;
-    background: url('/image/joan_fondo_480.jpg') no-repeat;
+    background: url('../image/joan_fondo_480.jpg') no-repeat;
     background-size: cover;
     background-position: center;  
 }
