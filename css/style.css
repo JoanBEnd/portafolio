@@ -468,6 +468,7 @@ span{
 .education-content .content ul li{ 
     margin-left: 20px;
     font-size: 1.3rem;
+    text-align: justify;
 }
 
 .education-content .content p{ 
