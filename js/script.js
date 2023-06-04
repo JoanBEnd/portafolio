@@ -41,3 +41,10 @@ window.onscroll = () =>{
     header.classList.toggle('sticky', window.scrollY > 100 );
 
 }
+
+let more = document.querySelectorAll(".more")
+for (let i=0; more.length; i++ ){
+    more[i].addEventListener('click', function(){
+        more[i].parentNode.classList.toggle('active')
+    });
+}
