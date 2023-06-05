@@ -32,7 +32,7 @@ window.onscroll = () =>{
         }
         else{
             sec.classList.remove("show-animate");
-            console.log("aaaaa " + id);
+           
         }
     });
 
