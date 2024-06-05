@@ -698,7 +698,7 @@ span {
 .btn-box.btnd {
   display: flex;
   width: 15rem;
-  justify-content: right; 
+  /* justify-content: right;  */
   align-items: center;
 }
  
